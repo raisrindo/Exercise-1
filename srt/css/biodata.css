@@ -1,0 +1,68 @@
+/* CSS untuk Exercise 1*/
+
+body
+{
+	/*background-color: #87CEFA;*/
+	background-color: lightgrey;
+
+}
+
+
+h1
+{ 
+	color: #483D8B;
+	font-family: fantasy;
+	font-size: 45px;
+	text-align: center;
+}
+
+
+pre
+{
+	color: #483D8B;
+	font-family: monospace;
+	font-size: 25px;
+	margin: 20px;
+	
+}
+
+p
+{
+	color: #483D8B;
+	font-family: monospace;
+	font-size: 30px;
+	text-align: left;
+}
+
+
+.spaceLine
+{
+	line-height: 0.7;
+}
+
+#heading
+{
+  	padding: 10px;
+}
+
+
+.photo
+{
+	width: 30%;
+	float: left;
+  	padding: 10px;
+}
+
+
+.data
+{
+	width: 65%;
+  	float: left;
+}
+
+.sapaan
+{
+	float:left;
+	width: 65%;
+	height: 100px;
+}
